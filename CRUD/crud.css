@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(187, 187, 187);
+}
+
+header{
+    background-color: blueviolet;
+    width: 100%;
+    height: 50px;
+}
+
+nav{
+    background-color: rgb(65, 148, 27);
+    font-size: calc(1.375rem + 1.5vw);
+    margin-top: -8px;
+    padding: 30px;
+    background-color: white;
+}
+
+nav .dash h1{
+    /* color: white; */
+    font-weight: 700;
+
+}
+
+.navhead h3{
+    display: inline-flex;
+    margin-left: 45px;
+    color: white;
+    font-weight: 900;
+}
+
+.navhead .signout p{
+    margin-left: 1027px;
+    margin-top: -32px;
+    display: flex;
+    color: white;
+    font-weight: 500;
+}
+
+.navhead .signout button{
+    text-decoration: none;
+    margin-left: 1100px;
+    display: flex;
+    margin-top: -41px;
+    margin-bottom: -7px;
+    border: none;
+    background-color: transparent;
+    font-weight: 900;
+    color: white;
+}
+
+.main {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+.main .blog-post{
+    background-color: rgb(255, 255, 255);
+    width: 575px;
+    padding: 27px;
+    margin-left: 75px;
+    margin-top: 25px;
+    box-shadow: -3px 3px 8px 0px black;
+    border-radius: 10px;
+}
+
+#none{
+    background-color: rgb(255, 255, 255);
+    width: 758px;
+    margin-left: 90px;
+    box-shadow: -3px 3px 8px 0px black;
+    border-radius: 10px;
+
+}
+
+.text input{
+    margin-top: 40px;
+    width: 650px;
+    margin-left: 48px;
+    padding: 10px;
+}
+
+.text textarea{
+    margin-left: 48px;
+    width: 650px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+
+.content #button{
+    width: 195px;
+    height: 42px;
+    margin: 20px;
+    margin-left: 46px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 7px
+}
+
+.heading5{
+    font-size: 27px;
+    margin-left: 87px;
+    margin-top: 54px;
+    margin-bottom: 38px;
+    font-weight: 900;
+}
+
+
+.main .blog-post img{
+    width: 30px;
+}
